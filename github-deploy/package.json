@@ -1,0 +1,14 @@
+{
+  "name": "node_webhooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "schizobulia",
+  "license": "ISC",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
